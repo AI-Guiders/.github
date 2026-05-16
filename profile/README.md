@@ -6,6 +6,7 @@
 |---|---|
 | **Handbook** (mission, values, how we work) | [handbook wiki](https://github.com/AI-Guiders/handbook/wiki) · [repo](https://github.com/AI-Guiders/handbook) |
 | **Public knowledge slice** (CC BY-SA) | [kb-public](https://github.com/AI-Guiders/kb-public) |
+| **Org site** (EN/RU) | [ai-guiders.github.io](https://ai-guiders.github.io/) |
 | **Writing & project cards** | [karataevdmitry.github.io](https://karataevdmitry.github.io/) |
 
 ---
@@ -90,3 +91,4 @@ Third-party notices live in individual repositories.
 ---
 
 <p align="center"><sub>AI-Guiders · agent-first open stack for .NET</sub></p>
+
